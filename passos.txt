@@ -1,1 +1,10 @@
 configurar o git local:
+git config --global user.name arthurrtasca
+git config --global user.email arthurdoquadreciclo@gmail.com
+
+criar um projeto:
+dotnet new mvc -o pokedex
+
+executar um projeto:
+
+

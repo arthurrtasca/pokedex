@@ -1,0 +1,13 @@
+namespace Pokedex.models;
+
+public class Pokemon
+{ 
+    public int Numero { get; set; }
+    public string nome { get; set; }
+    public string Descricao { get; set; }
+    public string Especie { get; set; }
+    public list<string> tipo   { get;  set; } 
+    public double peso { get; set; }
+    public double Imagem  { get; set; } 
+    
+}
